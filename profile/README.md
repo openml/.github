@@ -1,22 +1,12 @@
-## Hi there 👋
-
 ### 🙋‍♀️ Who are we?
 OpenML aims to create an open, collaborative, frictionless, automated machine learning environment, through which AI researchers can share their work, 
-automate their workflows, and build easily on each others work and learn from it.
-
-[Check our website to learn more](https://new.openml.org/)
+automate their workflows, and build easily on each others work and learn from it. [Check our website to learn more](https://new.openml.org/)
 
 ### 🌈 Contribution guidelines
-If you are new to OpenML, please see our [general contribution guide](https://new.openml.org/contribute). We are always happy to welcome new
-contributors:  
-
-* Developers (in a all programming languages): Help us improve our APIs and do more powerful things more easily. See below for more.
-* UX and Web designers: We could use your help to improve our [website](https://github.com/openml/openml.org)
-* New users: We would really appreciate any improvements to our [documentation](https://docs.openml.org/) if anything is not clear.
-* Dataset owners: Please consider uploading new interesting datasets via our APIs or website. If you notice issues with datasets, please [report here](https://github.com/openml/openml-data)
+If you are new to OpenML, please see our [general contribution guide](https://new.openml.org/contribute). We're so happy that you want to help!
 
 ### 🍿 Get in touch
-You can talk to us in [our Slack channel](https://join.slack.com/t/openml/shared_invite/enQtODg4NjgzNTE4NjU3LTYwZDFhNzQ5NmE0NjIyNmM3NDMyMjFkZDQ0YWZkYWYxMTIxODFmMDhhMTUzMGYzMmM4NjIzYTZlYjBkOGE5MTQ)
+You can talk to us in [our Slack channel](https://join.slack.com/t/openml/shared_invite/enQtODg4NjgzNTE4NjU3LTYwZDFhNzQ5NmE0NjIyNmM3NDMyMjFkZDQ0YWZkYWYxMTIxODFmMDhhMTUzMGYzMmM4NjIzYTZlYjBkOGE5MTQ).
 Or, join us in one of our [meetups](https://new.openml.org/meet).
 
 ### 👩‍💻 GitHub repository structure
