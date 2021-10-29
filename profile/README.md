@@ -4,6 +4,7 @@ automate their workflows, and build easily on each other's work. [Check our webs
 
 ### 🌈 Contribution guidelines
 If you are new to OpenML, please see our [general contribution guide](https://new.openml.org/contribute#help). We're so happy that you want to help!
+We are open to anyone getting involved, and are always seeking to increase diversity in AI.
 
 ### 🍿 Get in touch
 You can talk to us in [our Slack channel](https://join.slack.com/t/openml/shared_invite/enQtODg4NjgzNTE4NjU3LTYwZDFhNzQ5NmE0NjIyNmM3NDMyMjFkZDQ0YWZkYWYxMTIxODFmMDhhMTUzMGYzMmM4NjIzYTZlYjBkOGE5MTQ).
