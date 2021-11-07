@@ -1,6 +1,5 @@
 ### 🙋‍♀️ Who are we?
-OpenML aims to create an open, collaborative, frictionless, automated machine learning environment, through which AI researchers can share their work, 
-automate their workflows, and build easily on each other's work. [Check our website to learn more](https://new.openml.org/).
+OpenML aims to democratize machine learning by creating an open, frictionless platform for accessing and sharing datasets, models, and experiments. Anytime, anywhere. It allows scientists to easily build on each other's work, learn from the past, and automate their workflows. [Check our website to learn more](https://new.openml.org/).
 
 ### 🌈 Contribution guidelines
 If you are new to OpenML, please see our [general contribution guide](https://new.openml.org/contribute#help). We're so happy that you want to help!
