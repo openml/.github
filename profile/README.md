@@ -22,7 +22,7 @@ Here's a brief overview of the repo's in OpenML and their status:
 * [docs](https://github.com/openml/docs): Home of our [documentation pages](https://docs.openml.org/)
 * [blog](https://github.com/openml/blog): Home of our [blog](http://blog.openml.org/)
 * [benchmark-suites](https://github.com/openml/benchmark-suites): Materials to help you build [OpenML benchmark suites](https://docs.openml.org/benchmark/)
-* [automlbenchmark](https://github.com/openml/benchmark-suites): Our framework for [benchmarking AutoML systems](https://openml.github.io/automlbenchmark/)
+* [automlbenchmark](https://github.com/openml/automlbenchmark): Our framework for [benchmarking AutoML systems](https://openml.github.io/automlbenchmark/)
 
 
 
