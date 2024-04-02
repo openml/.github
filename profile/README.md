@@ -13,7 +13,7 @@ Or, join us in one of our [meetups](https://new.openml.org/meet).
 Here's a brief overview of the repo's in OpenML and their status:
 
 * [openml.org](https://github.com/openml/openml.org): Our [new frontend](https://new.openml.org/). Built on Flask, React, and Dash
-* [OpenML](https://github.com/openml/OpenML): Our older backend, with a lot of legacy code. We plan to rewrite this in 2022
+* [OpenML](https://github.com/openml/OpenML): Our older backend, with a lot of legacy code. We plan to rewrite this in 2023-2024
 * [openml-python](https://github.com/openml/openml-python): Our Python API, giving you access to everything OpenML has to offer
 * [openml-R](https://github.com/openml/openml-R): Our R API, covering the major OpenML use cases
 * [openml-java](https://github.com/openml/openml-java): Our Java API, covering the major OpenML use cases
