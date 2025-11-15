@@ -5,6 +5,12 @@ OpenML aims to democratize machine learning by creating an open, frictionless pl
 If you are new to OpenML, please see our [general contribution guide](https://new.openml.org/contribute#help). We're so happy that you want to help!
 We are open to anyone getting involved, and are always seeking to increase diversity in AI.
 
+⚠️ At the moment, we're doing some significant rewriting of several components:
+* [openml.org](https://github.com/openml/openml.org) (website): The new website (in /app) is being refactored until 25/12/2025 and we need to freeze contributions here. Contributions are still welcome to the old website (in server/src/client/app).
+* [OpenML](https://github.com/openml/OpenML) (backend): We are entirely rewriting the backend (see [API v2](https://github.com/openml/server-api)), hence pull requests here may no longer be accepted.
+
+We do very much welcome contributions to other OpenML components, especially [Python API](https://github.com/openml/openml-python) and [documentation](https://github.com/openml/docs).
+
 ### 🍿 Get in touch
 You can talk to us in [our Slack channel](https://join.slack.com/t/openml/shared_invite/enQtODg4NjgzNTE4NjU3LTYwZDFhNzQ5NmE0NjIyNmM3NDMyMjFkZDQ0YWZkYWYxMTIxODFmMDhhMTUzMGYzMmM4NjIzYTZlYjBkOGE5MTQ).
 Or, join us in one of our [meetups](https://new.openml.org/meet).
