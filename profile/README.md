@@ -6,8 +6,8 @@ If you are new to OpenML, please see our [general contribution guide](https://ne
 We are open to anyone getting involved, and are always seeking to increase diversity in AI.
 
 ⚠️ At the moment, we're doing some significant rewriting of several components:
-* [openml.org](https://github.com/openml/openml.org) (website): The new website (in /app) is being refactored until 25/12/2025 and we need to freeze contributions here. Contributions are still welcome to the old website (in server/src/client/app).
-* [OpenML](https://github.com/openml/OpenML) (backend): We are entirely rewriting the backend (see [API v2](https://github.com/openml/server-api)) until spring 2026, hence pull requests to the old backend may no longer be accepted.
+* [openml.org](https://github.com/openml/openml.org) (website): The new website (in /app) is being refactored until 25/12/2025, expect major changes. If you'd like to contribute to the website, you are very welcome but please check back on 1 January 2026.
+* [OpenML](https://github.com/openml/OpenML) (backend): We are entirely rewriting the REST API from PHP to Python (early work can be found in [API v2](https://github.com/openml/server-api)). Pull requests to the old REST API may no longer be accepted. Please check back in spring 2026.
 
 We do very much welcome contributions to other OpenML components, especially [Python API](https://github.com/openml/openml-python) and [documentation](https://github.com/openml/docs).
 
