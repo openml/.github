@@ -7,7 +7,7 @@ We are open to anyone getting involved, and are always seeking to increase diver
 
 ⚠️ At the moment, we're doing some significant rewriting of several components:
 * [openml.org](https://github.com/openml/openml.org) (website): The new website (in /app) is being refactored until 25/12/2025, expect major changes. If you'd like to contribute to the website, you are very welcome but please check back on 1 January 2026.
-* [OpenML](https://github.com/openml/OpenML) (backend): We are entirely rewriting the REST API from PHP to Python (early work can be found in [API v2](https://github.com/openml/server-api)). Pull requests to the old REST API may no longer be accepted. Please check back in spring 2026.
+* [OpenML](https://github.com/openml/OpenML) (backend): We are entirely rewriting the REST API from PHP to Python (early work can be found in [API v2](https://github.com/openml/server-api)). The old REST API is now in maintenance-only model and pull requests to the old REST API may no longer be accepted. Please check back in spring 2026 for a more detailed roadmap and contribution guide for the new API.
 
 We do very much welcome contributions to other OpenML components, especially [Python API](https://github.com/openml/openml-python) and [documentation](https://github.com/openml/docs).
 
